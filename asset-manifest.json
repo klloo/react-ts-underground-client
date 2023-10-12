@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-ts-underground-client/static/js/main.3a8b51fc.js",
+    "main.js": "/react-ts-underground-client/static/js/main.651cb5b5.js",
     "index.html": "/react-ts-underground-client/index.html",
-    "main.3a8b51fc.js.map": "/react-ts-underground-client/static/js/main.3a8b51fc.js.map"
+    "main.651cb5b5.js.map": "/react-ts-underground-client/static/js/main.651cb5b5.js.map"
   },
   "entrypoints": [
-    "static/js/main.3a8b51fc.js"
+    "static/js/main.651cb5b5.js"
   ]
 }
